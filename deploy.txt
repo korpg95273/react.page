@@ -1,0 +1,16 @@
+
+react 배포하는 방법
+배포 -> 사용자들이 사이트에 접속해서 사이트를 이용
+
+정적 페이지의 배포
+1) github pages
+
+-- 실무 --
+2) dothome + FTP
+3) aws S3 + CDN(Cloud front)
+
+4) vercel, netlify (플랫폼)ㅍㄷ
+
+
+
+CSR | SSR
